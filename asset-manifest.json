@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FranckoBz94/movie/static/css/main.16140cf8.chunk.css",
+    "main.js": "/FranckoBz94/movie/static/js/main.7cd4ce20.chunk.js",
+    "main.js.map": "/FranckoBz94/movie/static/js/main.7cd4ce20.chunk.js.map",
+    "runtime-main.js": "/FranckoBz94/movie/static/js/runtime-main.39341f3c.js",
+    "runtime-main.js.map": "/FranckoBz94/movie/static/js/runtime-main.39341f3c.js.map",
+    "static/css/2.0376a2dc.chunk.css": "/FranckoBz94/movie/static/css/2.0376a2dc.chunk.css",
+    "static/js/2.5281ddec.chunk.js": "/FranckoBz94/movie/static/js/2.5281ddec.chunk.js",
+    "static/js/2.5281ddec.chunk.js.map": "/FranckoBz94/movie/static/js/2.5281ddec.chunk.js.map",
+    "index.html": "/FranckoBz94/movie/index.html",
+    "precache-manifest.d9b6a174862c2d6db6d16fb52597ce84.js": "/FranckoBz94/movie/precache-manifest.d9b6a174862c2d6db6d16fb52597ce84.js",
+    "service-worker.js": "/FranckoBz94/movie/service-worker.js",
+    "static/css/2.0376a2dc.chunk.css.map": "/FranckoBz94/movie/static/css/2.0376a2dc.chunk.css.map",
+    "static/css/main.16140cf8.chunk.css.map": "/FranckoBz94/movie/static/css/main.16140cf8.chunk.css.map",
+    "static/js/2.5281ddec.chunk.js.LICENSE.txt": "/FranckoBz94/movie/static/js/2.5281ddec.chunk.js.LICENSE.txt",
+    "static/media/logo.cb90c5bd.svg": "/FranckoBz94/movie/static/media/logo.cb90c5bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39341f3c.js",
+    "static/css/2.0376a2dc.chunk.css",
+    "static/js/2.5281ddec.chunk.js",
+    "static/css/main.16140cf8.chunk.css",
+    "static/js/main.7cd4ce20.chunk.js"
+  ]
+}
