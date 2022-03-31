@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/FranckoBz94/static/css/main.16140cf8.chunk.css",
-    "main.js": "/FranckoBz94/static/js/main.671252f4.chunk.js",
-    "main.js.map": "/FranckoBz94/static/js/main.671252f4.chunk.js.map",
-    "runtime-main.js": "/FranckoBz94/static/js/runtime-main.b5b023c6.js",
-    "runtime-main.js.map": "/FranckoBz94/static/js/runtime-main.b5b023c6.js.map",
-    "static/css/2.db3acdd9.chunk.css": "/FranckoBz94/static/css/2.db3acdd9.chunk.css",
-    "static/js/2.8bc18e02.chunk.js": "/FranckoBz94/static/js/2.8bc18e02.chunk.js",
-    "static/js/2.8bc18e02.chunk.js.map": "/FranckoBz94/static/js/2.8bc18e02.chunk.js.map",
-    "index.html": "/FranckoBz94/index.html",
-    "precache-manifest.7baba3c8f9086588cf4563911cc9d3d4.js": "/FranckoBz94/precache-manifest.7baba3c8f9086588cf4563911cc9d3d4.js",
-    "service-worker.js": "/FranckoBz94/service-worker.js",
-    "static/css/2.db3acdd9.chunk.css.map": "/FranckoBz94/static/css/2.db3acdd9.chunk.css.map",
-    "static/css/main.16140cf8.chunk.css.map": "/FranckoBz94/static/css/main.16140cf8.chunk.css.map",
-    "static/js/2.8bc18e02.chunk.js.LICENSE.txt": "/FranckoBz94/static/js/2.8bc18e02.chunk.js.LICENSE.txt",
-    "static/media/logo.cb90c5bd.svg": "/FranckoBz94/static/media/logo.cb90c5bd.svg"
+    "main.css": "/movie/static/css/main.16140cf8.chunk.css",
+    "main.js": "/movie/static/js/main.6d49be29.chunk.js",
+    "main.js.map": "/movie/static/js/main.6d49be29.chunk.js.map",
+    "runtime-main.js": "/movie/static/js/runtime-main.d0831524.js",
+    "runtime-main.js.map": "/movie/static/js/runtime-main.d0831524.js.map",
+    "static/css/2.0376a2dc.chunk.css": "/movie/static/css/2.0376a2dc.chunk.css",
+    "static/js/2.5281ddec.chunk.js": "/movie/static/js/2.5281ddec.chunk.js",
+    "static/js/2.5281ddec.chunk.js.map": "/movie/static/js/2.5281ddec.chunk.js.map",
+    "index.html": "/movie/index.html",
+    "precache-manifest.b2070bf49c8e35603c8cedfd30180c5a.js": "/movie/precache-manifest.b2070bf49c8e35603c8cedfd30180c5a.js",
+    "service-worker.js": "/movie/service-worker.js",
+    "static/css/2.0376a2dc.chunk.css.map": "/movie/static/css/2.0376a2dc.chunk.css.map",
+    "static/css/main.16140cf8.chunk.css.map": "/movie/static/css/main.16140cf8.chunk.css.map",
+    "static/js/2.5281ddec.chunk.js.LICENSE.txt": "/movie/static/js/2.5281ddec.chunk.js.LICENSE.txt",
+    "static/media/logo.cb90c5bd.svg": "/movie/static/media/logo.cb90c5bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5b023c6.js",
-    "static/css/2.db3acdd9.chunk.css",
-    "static/js/2.8bc18e02.chunk.js",
+    "static/js/runtime-main.d0831524.js",
+    "static/css/2.0376a2dc.chunk.css",
+    "static/js/2.5281ddec.chunk.js",
     "static/css/main.16140cf8.chunk.css",
-    "static/js/main.671252f4.chunk.js"
+    "static/js/main.6d49be29.chunk.js"
   ]
 }
